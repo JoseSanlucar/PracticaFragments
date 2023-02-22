@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="bottonmargin">10dp</dimen>
+    <dimen name="radiusCV">4dp</dimen>
+    <dimen name="LetraTV">30sp</dimen>
+    <dimen name="NombreApp">30sp</dimen>
+    <dimen name="TamañoHueso">50dp</dimen>
+    <dimen name="TamañoEstrella">65dp</dimen>
+
+</resources>
